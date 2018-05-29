@@ -1,4 +1,6 @@
-/* This is a package */
+/* This is a package
+ * @javadoc example package  
+ */
 package com.example;
 
 
